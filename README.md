@@ -2,8 +2,6 @@
 
 Quant Economics & Econometrics Graduate | Data & Markets Enthusiast 
 
-𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-
 I’m passionate about markets, data, and modeling complex systems.
 I enjoy building Python-based tools and simulations that help explain how policy, risk, and new technologies interact.
 
