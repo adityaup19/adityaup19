@@ -11,7 +11,7 @@ Tech Stack🖥️:
 
 - Python, SQL, JavaScript, Excel (Financial Modeling)
 
-Key Projects
+K͟e͟y͟ P͟r͟o͟j͟e͟c͟t͟s͟
 
 📈 Econ-Fed-S&P500 Analysis
 Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
