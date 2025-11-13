@@ -7,11 +7,10 @@ Quant Economics & Econometrics Graduate | Data & Markets Enthusiast
 I'm a recent Quantitative Economics & Econometrics graduate passionate about financial modeling, market behavior, and data-driven decision-making.
 I enjoy using Python, econometrics, and simulation modeling to understand how macroeconomic policy, risk, and emerging technologies interact.
 
-🖥️ Tech Stac:
-
+🖥️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸::
 - Python, SQL, JavaScript, Excel (Financial Modeling)
 
-K͟e͟y͟ P͟r͟o͟j͟e͟c͟t͟s͟
+𝗞𝗲𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 📈 Econ-Fed-S&P500 Analysis
 Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
