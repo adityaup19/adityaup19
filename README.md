@@ -1,6 +1,6 @@
 ## Aditya Upadhyay
 
-🌟 Quant Economics & Econometrics Graduate | Data & Markets Enthusiast
+Quant Economics & Econometrics Graduate | Data & Markets Enthusiast
 
 About Me
 
@@ -18,31 +18,19 @@ R (optional)
 
 Excel (Financial Modeling)
 
-🛠️ Tools & Frameworks:
-
-Streamlit
-
-Jupyter
-
-Statsmodels
-
-Scikit-learn
-
-Matplotlib / Plotly
-
 Key Projects
 
-Econ-Fed-S&P500 Analysis
-Event-study examining how Federal Reserve rate decisions influence short-term market volatility (VIX).
+📈 Econ-Fed-S&P500 Analysis
+Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
 
-Orbital Habitat Finance
-Capital stack + IRR modeling for a 10-person orbital habitat.
+🛰️ Orbital Habitat Finance
+Capital stack design and IRR modeling for a 10-person orbital habitat — blending engineering constraints with financial planning.
 
-Space Launch Costs
-Python visualization comparing cost-per-kg across major launch vehicles.
+🚀 Space Launch Costs
+A Python comparison of cost-per-kg across major launch vehicles, visualizing competitiveness in the launch market.
 
-NovaCore
-Closed-loop life-support simulator (CO₂, O₂, temperature, humidity) built in Python + Streamlit.
+🌱 NovaCore
+Closed-loop life-support simulator (CO₂, O₂, temperature, humidity) built using Python + Streamlit for real-time visualization.
 
-Market-Mind
-Streamlit dashboard showing Risk-On / Risk-Off regimes using volatility, breadth, and trend indicators.
+📊 Market-Mind
+An interactive dashboard that classifies markets into Risk-On / Risk-Off regimes using volatility, breadth, and trend indicators.
