@@ -1,5 +1,4 @@
-## Hi there 👋
-Aditya Upadhyay
+## Aditya Upadhyay
 
 🌟 Quant Economics & Econometrics Graduate | Data & Markets Enthusiast
 
