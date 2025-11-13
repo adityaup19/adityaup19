@@ -1,14 +1,13 @@
 ## Aditya Upadhyay
 
-Quant Economics & Econometrics Graduate | Data & Markets Enthusiast
+Quant Economics & Econometrics Graduate | Data & Markets Enthusiast 
 
 About Me
 
 I'm a recent Quantitative Economics & Econometrics graduate passionate about financial modeling, market behavior, and data-driven decision-making.
 I enjoy using Python, econometrics, and simulation modeling to understand how macroeconomic policy, risk, and emerging technologies interact.
 
-Tech Stack
-🖥️ Programming Languages:
+Tech Stack🖥️:
 
 - Python, SQL, JavaScript, Excel (Financial Modeling)
 
