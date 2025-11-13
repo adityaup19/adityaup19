@@ -10,13 +10,7 @@ I enjoy using Python, econometrics, and simulation modeling to understand how ma
 Tech Stack
 🖥️ Programming Languages:
 
-Python
-
-SQL
-
-R (optional)
-
-Excel (Financial Modeling)
+- Python, SQL, JavaScript, Excel (Financial Modeling)
 
 Key Projects
 
