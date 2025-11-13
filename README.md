@@ -2,7 +2,7 @@
 
 Quant Economics & Econometrics Graduate | Data & Markets Enthusiast 
 
-A̲b̲o̲u̲t̲ M̲e̲
+𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 I'm a recent Quantitative Economics & Econometrics graduate passionate about financial modeling, market behavior, and data-driven decision-making.
 I enjoy using Python, econometrics, and simulation modeling to understand how macroeconomic policy, risk, and emerging technologies interact.
