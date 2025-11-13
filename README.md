@@ -12,17 +12,17 @@ I enjoy using Python, econometrics, and simulation modeling to understand how ma
 
 𝗞𝗲𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-📈 Econ-Fed-S&P500 Analysis
+- Econ-Fed-S&P500 Analysis
 Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
 
-🛰️ Orbital Habitat Finance
+- Orbital Habitat Finance
 Capital stack design and IRR modeling for a 10-person orbital habitat — blending engineering constraints with financial planning.
 
-🚀 Space Launch Costs
+- Space Launch Costs
 A Python comparison of cost-per-kg across major launch vehicles, visualizing competitiveness in the launch market.
 
-🌱 NovaCore
+- NovaCore
 Closed-loop life-support simulator (CO₂, O₂, temperature, humidity) built using Python + Streamlit for real-time visualization.
 
-📊 Market-Mind
+- Market-Mind
 An interactive dashboard that classifies markets into Risk-On / Risk-Off regimes using volatility, breadth, and trend indicators.
