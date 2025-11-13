@@ -16,7 +16,7 @@ I enjoy using Python, econometrics, and simulation modeling to understand how ma
 Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
 
 - Orbital Habitat Finance
-Capital stack design and IRR modeling for a 10-person orbital habitat — blending engineering constraints with financial planning.
+Capital stack design and IRR modeling for a 10-person orbital habitat - blending engineering constraints with financial planning.
 
 - Space Launch Costs
 A Python comparison of cost-per-kg across major launch vehicles, visualizing competitiveness in the launch market.
