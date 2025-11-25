@@ -11,7 +11,7 @@ I enjoy building Python-based tools and simulations that help explain how policy
 
 𝗞𝗲𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-For DevProof Contributors, check out the first Pinned Repo 
+- 𝙁𝙤𝙧 𝘿𝙚𝙫𝙋𝙧𝙤𝙤𝙛 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨, 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙩𝙝𝙚 𝙛𝙞𝙧𝙨𝙩 𝙋𝙞𝙣𝙣𝙚𝙙 𝙍𝙚𝙥𝙤
 
 - Econ-Fed-S&P500 Analysis
 Event-study exploring how Federal Reserve rate decisions impact short-term stock market volatility (via the VIX).
