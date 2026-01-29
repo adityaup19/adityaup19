@@ -2,7 +2,7 @@
 
 Founder  | DevProof  | Quant Economics & Econometrics Graduate 
 
-DevProof Public repo is the first pinned repo
+Projects
 ----------------------------------------------------------------------------------------------------------------------
 
 🖥️ My Projects:: Frontend: Next.js + TypeScript Backend: Node.js (Express),C++
