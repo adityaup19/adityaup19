@@ -2,8 +2,7 @@
 
 Founder  | DevProof  | Quant Economics & Econometrics Graduate 
 
-Projects
+Projects/ Products
 ----------------------------------------------------------------------------------------------------------------------
 
-🖥️ My Projects:: Frontend: Next.js + TypeScript Backend: Node.js (Express),C++
-/DevProof-Contributors
+🖥️ Built - Call A satellite , Devproof, VisaRisk and some finance stuff
