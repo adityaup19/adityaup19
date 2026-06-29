@@ -1,6 +1,6 @@
 ## Aditya Upadhyay
 
-Founder  | DevProof  | Quant Economics & Econometrics Graduate 
+Founder  | Oasis Orbital  | Quant Economics & Econometrics Graduate 
 
 Projects/ Products
 ----------------------------------------------------------------------------------------------------------------------
